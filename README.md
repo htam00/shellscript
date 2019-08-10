@@ -1,1 +1,1 @@
-(bash.png)_ ShellScript
+(/bash.png)_ ShellScript
