@@ -1,1 +1,6 @@
-![Bash Logo](/bash.png)_ ShellScript
+# Bash Logo & titulo 
+![Bash Logo](/bash.png) ShellScript
+
+```shellscript
+echo "Animations"
+```
