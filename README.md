@@ -1,4 +1,4 @@
-# >_ ShellScript
+# >_   ShellScript
 
 syntax basic :+1:
 ```shellscript
