@@ -1,5 +1,5 @@
-# Bash Logo & titulo 
-![Bash Logo](/bash.png) ShellScript
+# ShellScript
+![Bash Logo](/bash.png)
 
 syntax basic :+1:
 ```shellscript
