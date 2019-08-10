@@ -1,6 +1,7 @@
 # Bash Logo & titulo 
 ![Bash Logo](/bash.png) ShellScript
 
+syntax basic
 ```shellscript
-echo "Animations"
+#!/bin/bash
 ```
